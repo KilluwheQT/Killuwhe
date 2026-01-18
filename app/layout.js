@@ -5,10 +5,10 @@ import Footer from '@/components/Footer';
 
 export const metadata = {
   title: {
-    default: 'Whelster Esmade | Full Stack Developer',
+    default: 'Whelster Esmade | Web Developer',
     template: '%s | Whelster Esmade',
   },
-  description: 'Full Stack Developer specializing in building exceptional digital experiences. Explore my portfolio of web applications and projects.',
+  description: 'Web Developer specializing in building exceptional digital experiences. Explore my portfolio of web applications and projects.',
   keywords: ['developer', 'portfolio', 'full stack', 'react', 'next.js', 'web development'],
   authors: [{ name: 'Whelster Esmade' }],
   creator: 'Whelster Esmade',
@@ -17,13 +17,13 @@ export const metadata = {
     locale: 'en_US',
     url: 'https://alexjohnson.dev',
     siteName: 'Whelster Esmade Portfolio',
-    title: 'Whelster Esmade | Full Stack Developer',
-    description: 'Full Stack Developer specializing in building exceptional digital experiences.',
+    title: 'Whelster Esmade | Web Developer',
+    description: 'Web Developer specializing in building exceptional digital experiences.',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Whelster Esmade | Full Stack Developer',
-    description: 'Full Stack Developer specializing in building exceptional digital experiences.',
+    title: 'Whelster Esmade | Web Developer',
+    description: 'Web Developer specializing in building exceptional digital experiences.',
     creator: '@alexjohnson',
   },
   robots: {
