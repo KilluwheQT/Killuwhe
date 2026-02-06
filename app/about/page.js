@@ -45,7 +45,7 @@ export default function AboutPage() {
           <div className="space-y-6">
             <AnimatedSection>
               <h3 className="text-2xl font-bold text-gray-900 dark:text-gray-100 mb-4">
-                Hi I&apos;m {personalInfo.name}
+                Hello! I&apos;m {personalInfo.name}
               </h3>
               <div className="prose prose-gray dark:prose-invert max-w-none">
                 {personalInfo.longBio.split('\n\n').map((paragraph, index) => (
